@@ -1,1 +1,3 @@
 Using Census Income dataset, implemented Data Mining techniques such as data pre-processing, Decision Trees, Random Forests, Neural Networks, Clustering using sci-kit to extract patterns out of the data.
+
+DataSet URL: https://archive.ics.uci.edu/ml/datasets/Census-Income+(KDD)
